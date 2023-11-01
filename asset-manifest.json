@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/havoc-store/static/css/main.073c9b0a.css",
+    "main.js": "/havoc-store/static/js/main.d2ffa8db.js",
+    "static/js/787.c9f6e2fc.chunk.js": "/havoc-store/static/js/787.c9f6e2fc.chunk.js",
+    "static/media/logo.svg": "/havoc-store/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/havoc-store/index.html",
+    "main.073c9b0a.css.map": "/havoc-store/static/css/main.073c9b0a.css.map",
+    "main.d2ffa8db.js.map": "/havoc-store/static/js/main.d2ffa8db.js.map",
+    "787.c9f6e2fc.chunk.js.map": "/havoc-store/static/js/787.c9f6e2fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d2ffa8db.js"
+  ]
+}
