@@ -15,3 +15,13 @@ code {
 a {
   color: #bd93f973;
 }
+
+p {
+  padding: 15px 15px 15px 15px;
+  text-align: initial;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #bd93f9;
+  margin: 0px;
+}
