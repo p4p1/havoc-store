@@ -20,7 +20,7 @@ function App() {
   const [data,setData]=useState([]);
 
   const getData=()=>{
-    fetch('/havoc-modules.json' ,{
+    fetch('havoc-modules.json' ,{
       mode: 'no-cors',
       headers : {
         'Content-Type': 'application/json',
