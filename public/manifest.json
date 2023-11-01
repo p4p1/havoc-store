@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Havoc-store",
+  "name": "A store to download havoc modules.",
   "icons": [
     {
       "src": "favicon.ico",

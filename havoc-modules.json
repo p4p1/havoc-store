@@ -1,0 +1,13 @@
+[
+  {
+    "title":"havoc-reporter",
+    "description":"A havoc UI python module to help in reporting and vulnerabilities to exploit on an internal network.",
+    "author":"p4p1",
+    "link":"https://github.com/p4p1/havoc-reporter",
+    "preview":"https://raw.githubusercontent.com/p4p1/havoc-reporter/main/assets/reporter.png",
+    "category": {
+        "Console": false,
+        "Graphical": true
+    }
+  }
+]
