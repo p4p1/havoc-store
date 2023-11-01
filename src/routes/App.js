@@ -48,8 +48,8 @@ function App() {
           </p>
         </div>
         <div className="App-header-links">
-          <a className="header-link" href="#">Github</a>
-          <a className="header-link" href="#">HavocFramework</a>
+          <a className="header-link" href="https://github.com/p4p1/havoc-store">Github</a>
+          <a className="header-link" href="https://havocframework.com/">HavocFramework</a>
         </div>
       </header>
       <div>
