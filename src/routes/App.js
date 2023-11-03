@@ -50,6 +50,7 @@ function App() {
           </p>
         </div>
         <div className="App-header-links">
+          <a className="header-link" href="https://github.com/p4p1/havoc-store/blob/main/README.md#add-your-pluggins">Add your projects</a>
           <a className="header-link" href="https://github.com/p4p1/havoc-store">Github</a>
           <a className="header-link" href="https://havocframework.com/">HavocFramework</a>
         </div>
