@@ -6,6 +6,7 @@
     "link":"https://github.com/p4p1/havoc-reporter",
     "preview":"https://raw.githubusercontent.com/p4p1/havoc-reporter/main/assets/reporter.png",
     "category": {
+        "BOF": false,
         "Console": false,
         "Graphical": true
     }
@@ -17,6 +18,7 @@
     "link":"https://gist.github.com/p4p1/ac7b50eb5ec37529b8745e13718ed746",
     "preview":"https://user-images.githubusercontent.com/19672114/279071482-65edb436-e555-4911-8433-18ebba257201.png",
     "category": {
+        "BOF": false,
         "Console": false,
         "Graphical": true
     }
@@ -28,6 +30,7 @@
     "link":"https://gist.github.com/p4p1/e24bca8407d69c8ea28d4bc9d423f85b",
     "preview":"https://user-images.githubusercontent.com/19672114/276935592-f0771db9-490a-49a1-bd51-9dfd8cb1f54d.png",
     "category": {
+        "BOF": false,
         "Console": false,
         "Graphical": true
     }
@@ -39,6 +42,7 @@
     "link":"https://gist.github.com/jakobfriedl/0887eb75b31b96568526521282e63681",
     "preview":"https://user-images.githubusercontent.com/71284620/277316461-29d79687-af74-47c0-8c58-8743f8a18e0c.png",
     "category": {
+        "BOF": false,
         "Console": false,
         "Graphical": true
     }
@@ -50,6 +54,7 @@
     "link":"https://gist.github.com/jakobfriedl/f55bd4f870348e68e0eb27ad6a2fa48b",
     "preview":"https://user-images.githubusercontent.com/71284620/277688335-430af58c-2b66-4126-a0c5-a405838ab2a7.png",
     "category": {
+        "BOF": false,
         "Console": false,
         "Graphical": true
     }
@@ -61,6 +66,7 @@
     "link":"https://github.com/jakobfriedl/mitre4havoc",
     "preview":"https://user-images.githubusercontent.com/71284620/279403776-b9bff740-5284-48ab-9b9d-dd6a79e19f55.png",
     "category": {
+        "BOF": false,
         "Console": false,
         "Graphical": true
     }
