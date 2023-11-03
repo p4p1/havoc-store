@@ -22,6 +22,7 @@ pluggins inside of the website. You can add a module with this following json ob
     "link":"<the link to the module>",
     "preview":"<The preview image of the module",
     "category": {
+        "BOF": false,
         "Console": false,
         "Graphical": true
     }
