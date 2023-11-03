@@ -13,7 +13,8 @@ You can then load a script through the load script button.
 
 ## Add your pluggins
 To add plugins you need to edit the file in _public/havoc-modules.json_ This is the current file to save
-pluggins inside of the website. You can add a module with this following json object template:
+pluggins inside of the website. You can add a module by forking this project adding a entrance to the json using
+this following json object template:
 ```json
   {
     "title":"<your title>",
@@ -22,6 +23,7 @@ pluggins inside of the website. You can add a module with this following json ob
     "link":"<the link to the module>",
     "preview":"<The preview image of the module",
     "category": {
+        "BOF": false,
         "Console": false,
         "Graphical": true
     }
