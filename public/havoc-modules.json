@@ -5,6 +5,7 @@
     "author":"p4p1",
     "link":"https://github.com/p4p1/havoc-reporter",
     "preview":"https://raw.githubusercontent.com/p4p1/havoc-reporter/main/assets/reporter.png",
+    "entrypoint":"reporter.py",
     "category": {
         "BOF": false,
         "Console": false,
@@ -17,6 +18,7 @@
     "author":"p4p1",
     "link":"https://gist.github.com/p4p1/ac7b50eb5ec37529b8745e13718ed746",
     "preview":"https://user-images.githubusercontent.com/19672114/279071482-65edb436-e555-4911-8433-18ebba257201.png",
+    "entrypoint":"havoc-fetch.py",
     "category": {
         "BOF": false,
         "Console": false,
@@ -29,6 +31,7 @@
     "author":"p4p1",
     "link":"https://gist.github.com/p4p1/e24bca8407d69c8ea28d4bc9d423f85b",
     "preview":"https://user-images.githubusercontent.com/19672114/276935592-f0771db9-490a-49a1-bd51-9dfd8cb1f54d.png",
+    "entrypoint":"auto_suite.py",
     "category": {
         "BOF": false,
         "Console": false,
