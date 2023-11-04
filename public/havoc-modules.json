@@ -44,6 +44,7 @@
     "author":"jakobfriedl",
     "link":"https://gist.github.com/jakobfriedl/0887eb75b31b96568526521282e63681",
     "preview":"https://user-images.githubusercontent.com/71284620/277316461-29d79687-af74-47c0-8c58-8743f8a18e0c.png",
+    "entrypoint":"Shhhavoc.py",
     "category": {
         "BOF": false,
         "Console": false,
@@ -56,6 +57,7 @@
     "author":"jakobfriedl",
     "link":"https://gist.github.com/jakobfriedl/f55bd4f870348e68e0eb27ad6a2fa48b",
     "preview":"https://user-images.githubusercontent.com/71284620/277688335-430af58c-2b66-4126-a0c5-a405838ab2a7.png",
+    "entrypoint":"ADOE.py",
     "category": {
         "BOF": false,
         "Console": false,
@@ -68,6 +70,7 @@
     "author":"jakobfriedl",
     "link":"https://github.com/jakobfriedl/mitre4havoc",
     "preview":"https://user-images.githubusercontent.com/71284620/279399607-7b029a01-2a6c-45fc-abdf-616cdea5ee1c.png",
+    "entrypoint":"mitre4havoc.py",
     "category": {
         "BOF": false,
         "Console": false,
