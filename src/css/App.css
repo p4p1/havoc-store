@@ -33,6 +33,11 @@
   border-radius: 10px;
 }
 
+.header-icon-active {
+  background-color:#bd93f973;
+  border-radius: 10px;
+}
+
 .subtitle {
   color:#959595;
   text-align: center;

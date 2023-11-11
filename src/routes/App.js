@@ -1,12 +1,20 @@
 import React,{useState,useEffect} from 'react';
 import '../css/App.css';
 
-function Module({json}) {
+function Module({json, showgui, showbof, showcons}) {
   var link_open = () => {
     window.open(json.link, "_blank");
   };
+  var cat_classname= "module-container";
+  if (json.category.BOF && showbof == false)
+    return (<div></div>);
+  if (json.category.Console && showcons == false)
+    return (<div></div>);
+  if (json.category.Graphical && showgui == false)
+    return (<div></div>);
+
   return(
-    <div className="module-container" onClick={link_open}>
+    <div className={cat_classname} onClick={link_open}>
       <div className="module-img-container">
         <img className="module-preview" src={json.preview} alt="something"/>
       </div>
@@ -20,6 +28,9 @@ function Module({json}) {
 
 function App() {
   const [data,setData]=useState([]);
+  const [showgui, setShowgui] = useState(true);
+  const [showbof, setShowbof] = useState(true);
+  const [showcons, setShowcons] = useState(true);
 
   const getData=()=>{
     fetch('havoc-modules.json' ,{
@@ -32,8 +43,6 @@ function App() {
       console.log(response);
       return (response.json());
     }).then(function(myJson) {
-      console.log(myJson);
-      console.log("supposed to be data");
       setData(myJson)
     }).catch((error) => {
       console.log(error);
@@ -63,13 +72,16 @@ function App() {
         </p>
       </div>
       <header className="category-header">
-        <a className="header-icon" href="#">Graphical</a>
-        <a className="header-icon" href="#">Terminal</a>
-        <a className="header-icon" href="#">BOF Files</a>
+        {showgui ? <a className="header-icon header-icon-active" href="#" onClick={() => setShowgui(!showgui)}>Graphical</a> :
+          <a className="header-icon" href="#" onClick={() => setShowgui(!showgui)}>Graphical</a> }
+        {showcons ? <a className="header-icon header-icon-active" href="#" onClick={() => setShowcons(!showcons)}>Terminal</a> :
+          <a className="header-icon" href="#" onClick={() => setShowcons(!showcons)}>Terminal</a>}
+        {showbof ? <a className="header-icon header-icon-active" href="#" onClick={() => setShowbof(!showbof)}>BOF Files</a> :
+          <a className="header-icon" href="#" onClick={() => setShowbof(!showbof)}>BOF Files</a> }
       </header>
       <div className="root-content">
       {
-        data && data.length>0 && data.map((item)=><Module json={item} />)
+        data && data.length>0 && data.map((item)=><Module json={item} showgui={showgui} showbof={showbof} showcons={showcons}/>)
       }
       </div>
     </div>
