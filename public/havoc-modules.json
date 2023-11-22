@@ -52,6 +52,19 @@
     }
   },
   {
+    "title":"matro7sh_loaders",
+    "description":"Myph and 221b loaders intergration for the Havoc framework.",
+    "author":"jenaye & djnn",
+    "link":"https://github.com/matro7sh/matro7sh_loaders/blob/main/matro7sh.py",
+    "preview":"https://github.com/matro7sh/matro7sh_loaders/raw/main/img/myph_loader.png",
+    "entrypoint":"matro7sh.py",
+    "category": {
+        "BOF": false,
+        "Console": false,
+        "Graphical": true
+    }
+  },
+  {
     "title":"ADOE",
     "description":"Active Directory Object Enumeration tool that displays user and group information.",
     "author":"jakobfriedl",
