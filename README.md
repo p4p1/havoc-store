@@ -34,6 +34,6 @@ You can also select if the plugin is either a console or GUI pluggin through the
 ## Future additions to this project
  - More modules ....
  - A better front-end.
- - Funcitonal Category system
+ - Funcitonal Category system - DONE
  - Github login and form to automatically do a pull request with the JSON from the front-end
- - A way to have inside of a json the path to the script that would need to be imported by Havoc to automate the "add pluggin" system
+ - A way to have inside of a json the path to the script that would need to be imported by Havoc to automate the "add pluggin" system - DONE
