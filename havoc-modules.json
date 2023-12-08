@@ -108,12 +108,25 @@
     "description":"A port of privkit for havoc",
     "author":"p4p1",
     "link":"https://github.com/p4p1/havoc-privkit",
-    "preview":"https://private-user-images.githubusercontent.com/19672114/286647938-f19a1a53-b9a5-4507-9f7e-f6e5618659d7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEyNzIwMzcsIm5iZiI6MTcwMTI3MTczNywicGF0aCI6Ii8xOTY3MjExNC8yODY2NDc5MzgtZjE5YTFhNTMtYjlhNS00NTA3LTlmN2UtZjZlNTYxODY1OWQ3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI5VDE1Mjg1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEwYmRjMDMyYTBmMzVjYzU4MmZjODdmMWNjYzQ4Yzk3N2MzYTdhMWNjOTllOGVmODUwYWMzMjgyYTNhM2E2OTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.1WG8m3eb8SOeJZarKH_zBbkNrITybxTxshRZNA3z8N0",
+    "preview":"https://raw.githubusercontent.com/p4p1/havoc-privkit/main/screenshot.png",
     "entrypoint":"privkit.py",
     "category": {
         "BOF": true,
         "Console": false,
         "Graphical": false
+    }
+  },
+  {
+    "title":"havocSauronEye",
+    "description":"Havoc plugin that quickly searches for files based on keywords in specific directories",
+    "author":"Cipher007",
+    "link":"https://github.com/Cipher7/havoc-SauronEye",
+    "preview":"https://raw.githubusercontent.com/Cipher7/havoc-SauronEye/main/sauroneye.png",
+    "entrypoint":"sauroneye.py",
+    "category": {
+        "BOF": false,
+        "Console": false,
+        "Graphical": true
     }
   }
 ]
