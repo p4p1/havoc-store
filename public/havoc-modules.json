@@ -117,7 +117,7 @@
     }
   },
   {
-    "title":"havocSauronEye",
+    "title":"havoc-SauronEye",
     "description":"Havoc plugin that quickly searches for files based on keywords in specific directories",
     "author":"Cipher007",
     "link":"https://github.com/Cipher7/havoc-SauronEye",
