@@ -128,5 +128,18 @@
         "Console": false,
         "Graphical": true
     }
+  },
+  {
+    "title":"havoc-ligolo",
+    "description":"Havoc GUI plugin to automate syncing a demon with ligolo to pivot through a network.",
+    "author":"p4p1",
+    "link":"https://github.com/p4p1/havoc-ligolo",
+    "preview":"https://raw.githubusercontent.com/p4p1/havoc-ligolo/main/havoc-ligolo.png",
+    "entrypoint":"ligolo.py",
+    "category": {
+        "BOF": false,
+        "Console": true,
+        "Graphical": true
+    }
   }
 ]
