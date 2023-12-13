@@ -141,5 +141,18 @@
         "Console": true,
         "Graphical": true
     }
+  },
+  {
+    "title":"havoc-PoolParty",
+    "description":"Havoc plugin to implement Windows Thread pool injection",
+    "author":"Cipher007",
+    "link":"https://github.com/Cipher7/havoc-PoolParty",
+    "preview":"https://raw.githubusercontent.com/Cipher7/havoc-PoolParty/main/havoc-poolparty.png",
+    "entrypoint":"poolparty.py",
+    "category": {
+        "BOF": true,
+        "Console": true,
+        "Graphical": false
+    }
   }
 ]
