@@ -160,7 +160,7 @@
     "description":"Havoc plugin to port NoPowerShell.exe by bitsadmin to Havoc C2. Execute powershell cmdlets in memory and remain invisible to any PowerShell logging mechanisms. Can also perform Active Directory enumeration using the AD Module.",
     "author":"jakobfriedl",
     "link":"https://github.com/jakobfriedl/havoc-NoPowerShell",
-    "preview":"https://private-user-images.githubusercontent.com/71284620/290480181-ffcf67c3-0b2f-499a-a215-518653a7ec87.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI1NDg5NzgsIm5iZiI6MTcwMjU0ODY3OCwicGF0aCI6Ii83MTI4NDYyMC8yOTA0ODAxODEtZmZjZjY3YzMtMGIyZi00OTlhLWEyMTUtNTE4NjUzYTdlYzg3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE0VDEwMTExOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJmMzdhNDdhZTUwOGVhMmEyNDU2NmJjMjc1YjAzOTcwNWM3YTM5ZWZkZWMxNjc0ZThiNmVhMjdmNDU3ZmQ5NDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.8rCyNSs8Tm1E684TN_8vqJMUideJ0MK7fT6pkJCxn_Q",
+    "preview":"https://raw.githubusercontent.com/jakobfriedl/havoc-NoPowerShell/main/NoPowerShell.png",
     "entrypoint":"NoPowerShell.py",
     "category": {
         "BOF": false,
