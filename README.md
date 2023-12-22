@@ -21,7 +21,8 @@ this following json object template:
     "description":"<Your description>",
     "author":"<Your username on github>",
     "link":"<the link to the module>",
-    "preview":"<The preview image of the module",
+    "preview":"<The preview image of the module>",
+    "entrypoint":"<The entrypoint script of the module",
     "category": {
         "BOF": false,
         "Console": false,
