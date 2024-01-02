@@ -167,5 +167,18 @@
         "Console": true,
         "Graphical": false
     }
+  },
+  {
+    "title":"havoc-bloodhound",
+    "description":"A GUI Wrapper to upload your sharphound files to your BloodHound Community Edition instance.",
+    "author":"p4p1",
+    "link":"https://github.com/p4p1/havoc-bloodhound",
+    "preview":"https://raw.githubusercontent.com/p4p1/havoc-bloodhound/main/assets/havoc-bloodhound.png",
+    "entrypoint":"bloodhound.py",
+    "category": {
+        "BOF": false,
+        "Console": true,
+        "Graphical": true
+    }
   }
 ]
