@@ -180,5 +180,18 @@
         "Console": true,
         "Graphical": true
     }
+  },
+  {
+    "title":"Havoc-DLLHijack",
+    "description":"A tool to assist DLL hijacking via the Havoc GUI.",
+    "author":"m7rick",
+    "link":"https://github.com/m7rick/Havoc-DLLHijack",
+    "preview":"https://raw.githubusercontent.com/m7rick/Havoc-DLLHijack/main/res/1704704529960.jpg",
+    "entrypoint":"DLL-Hijack.py",
+    "category": {
+        "BOF": false,
+        "Console": false,
+        "Graphical": true
+    }
   }
 ]
