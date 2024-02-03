@@ -193,5 +193,18 @@
         "Console": false,
         "Graphical": true
     }
+  },
+  {
+    "title":"havoc-ducky",
+    "description":"A tool to generate USB rubber ducky payloads with the havoc payloads.",
+    "author":"p4p1",
+    "link":"https://github.com/p4p1/havoc-ducky",
+    "preview":"https://raw.githubusercontent.com/p4p1/havoc-ducky/main/assets/ducky_example.png",
+    "entrypoint":"ducky.py",
+    "category": {
+        "BOF": false,
+        "Console": false,
+        "Graphical": true
+    }
   }
 ]
