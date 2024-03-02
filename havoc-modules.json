@@ -42,7 +42,7 @@
     "title":"Shhhavoc",
     "description":"Shhhloader intergration and support for the Havoc framework.",
     "author":"jakobfriedl",
-    "link":"https://gist.github.com/jakobfriedl/0887eb75b31b96568526521282e63681",
+    "link":"https://github.com/icyguider/Shhhloader",
     "preview":"https://user-images.githubusercontent.com/71284620/277316461-29d79687-af74-47c0-8c58-8743f8a18e0c.png",
     "entrypoint":"Shhhavoc.py",
     "category": {
