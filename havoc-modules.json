@@ -104,6 +104,19 @@
     }
   },
   {
+    "title":"havoc-gosecdump",
+    "description":"Tool to remotely dump secrets from the Windows registry (SAM,LSA, DCC2)",
+    "author":"jenaye",
+    "link":"https://github.com/matro7sh/havoc-gosecdump",
+    "preview":"https://raw.githubusercontent.com/matro7sh/havoc-gosecdump/refs/heads/main/img/poc.png",
+    "entrypoint":"gosecdump.py",
+    "category": {
+        "BOF": false,
+        "Console": true,
+        "Graphical": false
+    }
+  },
+  {
     "title":"havoc-privkit",
     "description":"A port of privkit for havoc",
     "author":"p4p1",
