@@ -134,7 +134,7 @@
     "description":"Module for creating persistence via the SharPersist binary",
     "author":"jenaye",
     "link":"https://github.com/matro7sh/havoc-sharPersist",
-    "preview":"https://raw.githubusercontent.com/matro7sh/havoc-sharpersist/refs/heads/main/img/reg-add.png",
+    "preview":"https://raw.githubusercontent.com/matro7sh/havoc-sharPersist/refs/heads/master/img/reg-add.png",
     "entrypoint":"havoc-sp.py",
     "category": {
         "BOF": false,
