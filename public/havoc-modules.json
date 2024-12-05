@@ -130,6 +130,19 @@
     }
   },
   {
+    "title":"havoc-sharpersist",
+    "description":"Module for creating persistence via the SharPersist binary",
+    "author":"jenaye",
+    "link":"https://github.com/matro7sh/havoc-sharPersist",
+    "preview":"https://raw.githubusercontent.com/matro7sh/havoc-sharpersist/refs/heads/main/img/reg-add.png",
+    "entrypoint":"havoc-sp.py",
+    "category": {
+        "BOF": false,
+        "Console": true,
+        "Graphical": false
+    }
+  },
+  {
     "title":"havoc-SauronEye",
     "description":"Havoc plugin that quickly searches for files based on keywords in specific directories",
     "author":"Cipher007",
