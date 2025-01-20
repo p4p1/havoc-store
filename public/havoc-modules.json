@@ -232,5 +232,18 @@
         "Console": false,
         "Graphical": true
     }
+  },
+    {
+    "title":"havoc_impersonnate",
+    "description":"The Havoc_impersonate module directly integrates impersonation functionality into Havoc.",
+    "author":"MaldExE",
+    "link":"https://github.com/MaldExE/Havoc_impersonnate",
+    "preview":"https://raw.githubusercontent.com/MaldExE/Havoc_impersonnate/refs/heads/main/img/image5.png",
+    "entrypoint":"impersonnate.py",
+    "category": {
+        "BOF": false,
+        "Console": true,
+        "Graphical": true
+    }
   }
 ]
